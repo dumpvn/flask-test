@@ -7,7 +7,6 @@ verify_ssl = true
 
 [packages]
 flask = "*"
-celery = "*"
 
 [requires]
 python_version = "3.7"
